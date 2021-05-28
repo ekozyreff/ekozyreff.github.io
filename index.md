@@ -7,5 +7,5 @@ layout: home
 
 <p style="text-align:left;"><img src="/images/ernee.jpg" alt="neural networt architecture" width="200"></p>
 
-My name is Ernée and currently I am a professor of Operations Research at Unesp. My interests are Mathematical Optimization and Artificial Inteligence. Here I share some ideas and work I have done in Data Science.
+My name is Ernée and currently I am a professor of Operations Research at [Unesp](https://www.unesp.br). My interests are Mathematical Optimization and Artificial Inteligence. Here I share some ideas and work I have done in Data Science.
 
