@@ -35,6 +35,8 @@ I regularly attend [Kaggle](https://www.kaggle.com) to learn new techniques and 
 - [A few ways to speed up your MIP solver](https://www.kaggle.com/c/santa-workshop-tour-2019/discussion/122660)
 
 
+<!---
+
 ### Completed Courses
 
 - [Python](https://www.kaggle.com/learn/python) ([certificate](https://www.kaggle.com/learn/certification/ekozyreff/python))
@@ -46,3 +48,5 @@ I regularly attend [Kaggle](https://www.kaggle.com) to learn new techniques and 
 - [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) ([certificate](https://www.kaggle.com/learn/certification/ekozyreff/data-cleaning))
 - [ Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) ([certificate](https://www.kaggle.com/learn/certification/ekozyreff/intro-to-deep-learning))
 - [Microchallenges](https://www.kaggle.com/learn/microchallenges) ([certificate](https://www.kaggle.com/learn/certification/ekozyreff/microchallenges))
+
+-->
