@@ -1,7 +1,6 @@
 ---
 layout: page
-title: CV
+title: 
 permalink: /cv/
 ---
 
-This is a test page
