@@ -1,3 +1,6 @@
 title: Ernee Kozyreff Filho
 logo: /img/headshot.png
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+#theme: jekyll-theme-minimal
