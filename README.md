@@ -1,4 +1,4 @@
-# Vita and Portfolio
+# Optimization and Data Science
 
 #### Technical Skills: Python, Pyomo, Mixed Integer Programming, Excel, VBA
 
