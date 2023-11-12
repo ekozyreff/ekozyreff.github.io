@@ -15,7 +15,7 @@
   #navigation .nav-link {
     margin-right: 20px;
     text-decoration: none;
-    color: #fff !important;
+    color: #fff;
   }
 
   #navigation .nav-link:not(:last-child) {
@@ -31,5 +31,13 @@
   #profile-picture {
     max-width: 100%;
     margin-left: auto; /* Push the picture to the right */
+  }
+
+  #written-info {
+    order: 1; /* Specify the order of the written-info section */
+  }
+
+  #profile-picture {
+    order: 2; /* Specify the order of the profile-picture section */
   }
 }
