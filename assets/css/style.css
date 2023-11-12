@@ -1,0 +1,9 @@
+#navigation {
+  display: flex;
+}
+
+.nav-link {
+  margin-right: 20px; /* Adjust as needed for spacing between links */
+  text-decoration: none;
+  color: #333; /* Adjust the color as needed */
+}
