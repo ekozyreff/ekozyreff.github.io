@@ -14,7 +14,7 @@ My expertise lies in leveraging tools such as Python, Pyomo, Mixed Integer Progr
 - **Mixed Integer Programming:** Specialized in formulating and solving optimization problems with a focus on mixed integer programming.
 - **Excel and VBA:** Adept at harnessing the power of Excel and VBA to streamline processes and enhance decision-making.
 
-Feel free to explore my portfolio to discover more about the projects I've undertaken and the impact they've had. If you have any questions or would like to connect, don't hesitate to reach out.
+Feel free to explore my portfolio to discover more about the projects I've undertaken and the impact they've had. If you have any questions or would like to connect, don't hesitate to reach out (via [LinkedIn](https://www.linkedin.com/in/ekozyreff/) is best).
 
 Thank you for visiting! ✨
 
