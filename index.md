@@ -20,7 +20,3 @@ Thank you for visiting! ✨
 
 Best regards,  
 Ernee
-
-[Bio and experience](https://ekozyreff.github.io/bio)
-
-[Projects Portfolio](https://ekozyreff.github.io/projects)
