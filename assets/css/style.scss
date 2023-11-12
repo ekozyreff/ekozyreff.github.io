@@ -3,25 +3,36 @@
 
 @import "jekyll-theme-slate";
 
-#navigation {
+#header_wrap {
   display: flex;
-}
+  justify-content: space-between;
+  align-items: center; /* Center items vertically within the header */
 
-.nav-link {
-  margin-right: 200px; /* Adjust as needed for spacing between links */
-  text-decoration: none;
-  color: #fff !important; /* Adjust the color as needed */
-}
+  #navigation {
+    display: flex;
 
-.nav-link:not(:last-child) {
-    margin-right: 10px; /* Additional spacing between links */
-    padding-right: 10px; /* Add padding for the vertical bar */
-    border-right: 1px solid #333; /* Vertical bar styling */
+    .nav-link {
+      margin-right: 20px;
+      text-decoration: none;
+      color: #fff !important;
+    }
+
+    .nav-link:not(:last-child) {
+      margin-right: 10px;
+      padding-right: 10px;
+      border-right: 1px solid #333;
+    }
   }
 
-th {
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  padding: 10px;
-  background: #f08484;
-  color: #fff;
- }
+  #written-info {
+    flex-grow: 1; /* Allow written-info to grow and take remaining space */
+  }
+
+  #profile-picture {
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 50%;
+    }
+  }
+}
