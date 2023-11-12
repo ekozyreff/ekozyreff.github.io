@@ -15,7 +15,7 @@
   #navigation .nav-link {
     margin-right: 20px;
     text-decoration: none;
-    color: #fff;
+    color: #333;
   }
 
   #navigation .nav-link:not(:last-child) {
@@ -25,19 +25,12 @@
   }
 
   #written-info {
-    flex-grow: 1;
+    flex-basis: calc(70% - 20px); /* Adjust as needed for the width of written-info */
+    margin-right: 20px; /* Adjust as needed for spacing between written-info and profile-picture */
   }
 
   #profile-picture {
+    flex-basis: 30%; /* Adjust as needed for the width of profile-picture */
     max-width: 100%;
-    margin-left: auto; /* Push the picture to the right */
-  }
-
-  #written-info {
-    order: 1; /* Specify the order of the written-info section */
-  }
-
-  #profile-picture {
-    order: 2; /* Specify the order of the profile-picture section */
   }
 }
