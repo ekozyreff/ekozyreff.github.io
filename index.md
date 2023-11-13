@@ -1,11 +1,10 @@
 #### Greetings! 👋 
 
-I'm **Ernee**, a passionate professional in the field of optimization and data science. This space is a showcase of my journey, highlighting projects that reflect my expertise and dedication to developing and implementing optimization models for real-world industry applications.
+I'm **Ernee**, a professional in the fields of optimization and data science. This space is a showcase of my journey, highlighting projects that reflect my expertise and dedication to developing and implementing optimization models for real-world industry applications as well as some personal projects.
 
 #### About Me 👨‍💼
 
-Currently, I am proud to be a part of [Klabin](https://klabin.com.br/)'s **Analytic Projects Team**, where I contribute my skills and knowledge to impactful projects. 
-My expertise lies in leveraging tools such as Python, Pyomo, Mixed Integer Programming, Excel, and VBA to tackle complex challenges and drive efficiency in various domains.
+Currently, I am part of [Klabin](https://klabin.com.br/)'s **Analytic Projects Team**, where I contribute my skills and knowledge to impactful projects. My expertise lies in leveraging tools such as Python, Pyomo, Mixed Integer Programming, Excel, and VBA to tackle complex challenges and drive efficiency in various domains.
 
 #### Skills 🛠️
 
