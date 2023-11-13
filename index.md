@@ -1,4 +1,4 @@
-Greetings! 👋 
+#### Greetings! 👋 
 
 I'm **Ernee**, a passionate professional in the field of optimization and data science. This space is a showcase of my journey, highlighting projects that reflect my expertise and dedication to developing and implementing optimization models for real-world industry applications.
 
