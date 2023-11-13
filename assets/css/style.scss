@@ -5,32 +5,34 @@
 
 #header_wrap {
   display: flex;
-  flex-wrap: wrap; /* Allow items to wrap to the next line if there's not enough space */
+  justify-content: space-between;
+  align-items: center; /* Center items vertically within the header */
 
   #navigation {
-    width: 100%; /* Ensure the navigation takes the full width */
-    margin-bottom: 10px; /* Adjust as needed for spacing between navigation and written-info */
-  }
+    display: flex;
 
-  #navigation .nav-link {
-    margin-right: 20px;
-    text-decoration: none;
-    color: #fff;
-  }
+    .nav-link {
+      margin-right: 20px;
+      text-decoration: none;
+      color: #fff !important;
+    }
 
-  #navigation .nav-link:not(:last-child) {
-    margin-right: 10px;
-    padding-right: 10px;
-    border-right: 1px solid #333;
+    .nav-link:not(:last-child) {
+      margin-right: 10px;
+      padding-right: 10px;
+      border-right: 1px solid #333;
+    }
   }
 
   #written-info {
-    flex-basis: calc(70% - 20px); /* Adjust as needed for the width of written-info */
-    margin-right: 20px; /* Adjust as needed for spacing between written-info and profile-picture */
+    flex-grow: 1; /* Allow written-info to grow and take remaining space */
   }
 
   #profile-picture {
-    flex-basis: 30%; /* Adjust as needed for the width of profile-picture */
-    max-width: 100%;
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 50%;
+    }
   }
 }
