@@ -16,42 +16,34 @@
   <!-- HEADER -->
   <div id="header_wrap" class="outer">
     <header class="inner">
+      {% if site.github.is_project_page %}
+      <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+      {% endif %}
 
-      <!-- Table for layout -->
-      <table border="0"> <!-- Set border attribute to 0 to hide borders -->
-        <tr>
-          <td valign="top">
-            {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-            {% endif %}
+      <!-- Navigation Bar -->
+      <nav id="navigation">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/bio" class="nav-link">Bio and Experience</a>
+        <a href="/projects" class="nav-link">Projects Portfolio</a>
+      </nav>
 
-            <!-- Navigation Bar -->
-            <nav id="navigation">
-              <a href="/" class="nav-link">Home</a>
-              <a href="/bio" class="nav-link">Bio and Experience</a>
-              <a href="/projects" class="nav-link">Projects Portfolio</a>
-            </nav>
+      <!-- Written Information -->
+      <div id="written-info">
+        <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+        <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-            <!-- Written Information -->
-            <div id="written-info">
-              <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-              <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        {% if site.show_downloads %}
+        <section id="downloads">
+          <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+          <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+        </section>
+        {% endif %}
+      </div>
 
-              {% if site.show_downloads %}
-              <section id="downloads">
-                <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-                <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-              </section>
-              {% endif %}
-            </div>
-          </td>
-          
-          <!-- Picture in the right cell of the table -->
-          <td valign="top" id="profile-picture">
-            <img src="/assets/images/profile_picture.png" alt="Ernee">
-          </td>
-        </tr>
-      </table>
+      <!-- Your Picture -->
+      <div id="profile-picture">
+        <img src="/assets/images/profile_picture.png" alt="Ernee">
+      </div>
 
     </header>
   </div>
