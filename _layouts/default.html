@@ -18,9 +18,9 @@
     <header class="inner">
 
       <!-- Table for layout -->
-      <table>
+      <table border="0"> <!-- Set border attribute to 0 to hide borders -->
         <tr>
-          <td>
+          <td valign="top">
             {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
             {% endif %}
@@ -47,7 +47,7 @@
           </td>
           
           <!-- Picture in the right cell of the table -->
-          <td id="profile-picture">
+          <td valign="top" id="profile-picture">
             <img src="/assets/images/profile_picture.png" alt="Ernee">
           </td>
         </tr>
