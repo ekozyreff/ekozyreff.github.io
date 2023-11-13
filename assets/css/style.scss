@@ -23,4 +23,17 @@
       border-right: 1px solid #fff;
     }
   }
+
+  #written-info {
+    flex-grow: 1; /* Allow written-info to grow and take remaining space */
+  }
+
+  #profile-picture {
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 50%;
+    }
+  }
+  
 }
