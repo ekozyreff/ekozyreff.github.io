@@ -1,6 +1,6 @@
 #### Greetings! 👋 
 
-I'm **Ernee**, a professional in the fields of optimization and data science. This space is a showcase of my journey, highlighting projects that reflect my expertise and dedication to developing and implementing optimization models for real-world industry applications as well as some personal projects.
+I'm **Ernee**, a professional in the field of optimization and data science. This space is a showcase of my journey, highlighting projects that reflect my expertise and dedication to developing and implementing optimization models for real-world industry applications as well as some personal projects.
 
 #### About Me 👨‍💼
 
