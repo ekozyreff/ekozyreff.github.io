@@ -1,15 +1,15 @@
 title: Ernee Kozyreff Filho
 #description: Optimization and Data Science
-theme: jekyll-theme-slate
-nav:
-  - text: Home
-    link: /
-  - text: Bio and Experience
-    link: /bio
-  - text: Projects Portfolio
-    link: /projects
+#theme: jekyll-theme-slate
+#nav:
+#  - text: Home
+#    link: /
+#  - text: Bio and Experience
+#    link: /bio
+#  - text: Projects Portfolio
+#    link: /projects
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-tactile
-#theme: jekyll-theme-minimal
-#logo: /img/headshot.png
+theme: jekyll-theme-minimal
+logo: /assets/images/profile_picture.png
 #google_analytics:
