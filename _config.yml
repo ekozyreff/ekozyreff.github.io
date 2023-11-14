@@ -1,12 +1,6 @@
-title: Ernee Kozyreff Filho
-#description: Optimization and Data Science
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-logo: /assets/images/profile_picture.png
-#nav:
-#  - text: Home
-#    link: /
-#  - text: Bio and Experience
-#    link: /bio
-#  - text: Projects Portfolio
-#    link: /projects
-#google_analytics:
