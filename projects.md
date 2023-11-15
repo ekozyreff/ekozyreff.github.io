@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Ernée Kozyreff Filho | Projects"
 ---
 
 Here are some projects I have worked on in the past.
