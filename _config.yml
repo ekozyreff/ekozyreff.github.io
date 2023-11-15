@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 nav:
   - text: Home
     url: /
-  - text: Bio
-    url: /bio.html
+  - text: Vita
+    url: /vita.html
   - text: Projects
     url: /projects.html
