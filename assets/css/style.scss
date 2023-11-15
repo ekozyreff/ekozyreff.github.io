@@ -5,18 +5,10 @@
 
 /* Navigation Bar */
 .nav-link {
-    margin-right: 10px; /* Adjusted margin for more symmetry */
+    margin-right: 20px; /* Adjusted margin for spacing between links */
     text-decoration: none;
 }
 
-.nav-link:not(:last-child) {
-    padding-right: 10px; /* Adjusted padding for more symmetry */
-    border-right: 1px solid #000;
-}
-
-/* Additional styling for last link if needed */
 .nav-link:last-child {
-    margin-right: 0;
-    padding-right: 0;
-    border-right: none;
+    margin-right: 0; /* Remove margin for the last link */
 }
