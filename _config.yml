@@ -7,6 +7,6 @@ nav:
   - text: Home
     url: /
   - text: Bio
-    url: /bio.md
+    url: /bio.html
   - text: Projects
-    url: /projects.md
+    url: /projects.html
