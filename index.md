@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ernée Kozyreff Filho | Home
+title: Home
 ---
 
 ## Welcome to my page! 👋 
