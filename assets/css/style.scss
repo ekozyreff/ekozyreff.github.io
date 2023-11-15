@@ -11,27 +11,14 @@
   display: flex;
 }
 
-.nav-item {
-  margin-right: 10px; /* Adjust spacing as needed */
-}
-
-.nav-link {
-  text-decoration: none;
-}
-
 .nav-link {
   margin-right: 20px;
   text-decoration: none;
 }
 
 .nav-link:not(:last-child) {
-  margin-right: 5px;
-  padding-right: 5px;
+  margin-right: 10px;
+  padding-right: 10px;
   border-right: 1px solid;
 }
 
-/* Optional: Add a separator between navigation links */
-.nav-separator::before {
-  content: "|";
-  margin: 0 5px; /* Adjust spacing as needed */
-}
