@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to my page! 👋 
 
-I'm **Ernee**, a professional in the field of optimization and data science. This space is a showcase of my journey, highlighting projects that reflect my expertise and dedication to developing and implementing optimization models for real-world industry applications as well as some personal projects.
+I'm **Ernée**, a professional in the field of optimization and data science. This space is a showcase of my journey, highlighting projects that reflect my expertise and dedication to developing and implementing optimization models for real-world industry applications as well as some personal projects.
 
 #### About me 👨‍💼
 
@@ -22,4 +22,4 @@ Feel free to explore my portfolio to discover more about the projects I've under
 Thank you for visiting! ✨
 
 Best regards,  
-Ernee
+Ernée
