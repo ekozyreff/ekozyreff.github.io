@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ernée Kozyreff Filho | Vita
 ---
 
 ## Short Bio
