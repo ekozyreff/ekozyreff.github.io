@@ -15,20 +15,20 @@
 <body>
   <div class="wrapper">
     <header>
-      <nav id="navigation">
-        <a href="/" class="nav-link">Home</a>
-        <a href="/bio.html" class="nav-link">Bio</a>
-        <a href="/projects.html" class="nav-link">Projects</a>
-      </nav>
-
-      <br>
-      
       <h2>{{ site.title | default: site.github.repository_name }}</h2>
 
       {% if site.logo %}
         <img src="{{site.logo | relative_url}}" alt="Logo" />
       {% endif %}
 
+      <nav id="navigation">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/vita.html" class="nav-link">Vita</a>
+        <a href="/projects.html" class="nav-link">Projects</a>
+      </nav>
+
+      <br>
+      
       <p>{{ site.description | default: site.github.project_tagline }}</p>
 
       {% if site.github.is_project_page %}
