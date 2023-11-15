@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ernée Kozyreff Filho | Vita
+title: "Ernée Kozyreff Filho &#124; Vita"
 ---
 
 ## Short Bio
