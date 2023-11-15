@@ -5,10 +5,16 @@
 
 /* Navigation Bar */
 .nav-link {
-    margin-right: 20px; /* Adjusted margin for spacing between links */
+    margin-right: 10px;
     text-decoration: none;
 }
 
 .nav-link:last-child {
-    margin-right: 0; /* Remove margin for the last link */
+    margin-right: 0;
+}
+
+/* Style for the current page link */
+.nav-link.current-page {
+    pointer-events: none; /* Disable pointer events for the current page link */
+    color: #999; /* Adjust the color for the current page link */
 }
