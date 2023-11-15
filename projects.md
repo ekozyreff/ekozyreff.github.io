@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Here are some projects I have worked on in the past.
 
 #### Connections between Integer Programming and Neural Networks
