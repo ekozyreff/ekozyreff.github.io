@@ -1,7 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: Minimal theme
+title: Ernee Kozyreff Filho
 logo: /assets/images/profile_picture.png
-description: Minimal is a theme for GitHub Pages.
-google_analytics:
+#description: text below image
+#show_downloads: true
+theme: jekyll-theme-minimal
