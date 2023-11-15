@@ -2,9 +2,13 @@
 layout: default
 ---
 
+## Short Bio
+
 I was born in Brazil, in a medium sized city called Sorocaba...
 
+
 ## Main Work Experience
+
 #### Analytic Projects Engineer @ Klabin S.A. (_May 2023 - Present_)
 - Together with the Analytical Projects team, I develop solutions for optimizing industrial processes using mathematical programming and statistical methods.
 
@@ -22,12 +26,16 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 - Worked on improvements in automotive glass cutting, painting and tempering lines.
 - Was responsible for managing people, expenses, maintenance and manufacturing of two glass production lines
 
+
 ## Education
+
 - Ph.D., Industrial Engineering - Texas Tech University (_May 2014_)								       		
 - M.S., Mathematics	- Texas Tech University (_May 2012_) 			        		
 - B.S., Civil Engineering - Instituto Tecnologico de Aeronautica (_December 2002_)
 
+
 ## Select Publications
+
 1. I. R. DE FARIAS, **E. KOZYREFF, E.**, M. ZHAO. Branch-and-cut for complementarity-constrained optimization. Mathematical Programming Computation, v. 6, 365–403, 2014. [http://dx.doi.org/10.1007/s12532-014-0070-2](http://dx.doi.org/10.1007/s12532-014-0070-2)
 2. **E. KOZYREFF**, I. R. DE FARIAS. A note on critical-set and lifted surrogate inequalities for cardinality-constrained linear programs. COMPUTERS & INDUSTRIAL ENGINEERING, v. 82, 1-7, 2014. [http://dx.doi.org/10.1016/j.cie.2014.08.014](http://dx.doi.org/10.1016/j.cie.2014.08.014)
 3. I. R. FARIAS, **E. KOZYREFF**, R. GUPTA, M. ZHAO. Branch-and-cut for separable piecewise linear optimization and intersection with semi-continuous constraints. Mathematical Programming Computation, v. 5, 75-112, 2013. [http://dx.doi.org/10.1007/s12532-012-0049-9](http://dx.doi.org/10.1007/s12532-012-0049-9)
