@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ernée Kozyreff Filho &#124; Vita"
+title: Vita
 ---
 
 ## Short Bio
