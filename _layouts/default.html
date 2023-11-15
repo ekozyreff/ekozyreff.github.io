@@ -22,9 +22,9 @@
       {% endif %}
 
       <nav id="navigation">
-        <a href="/" class="nav-link">Home</a>
-        <a href="/vita.html" class="nav-link">Vita</a>
-        <a href="/projects.html" class="nav-link">Projects</a>
+        <a href="/" class="nav-link{% if page.url == '/' %} current-page{% endif %}">Home</a>
+        <a href="/vita.html" class="nav-link{% if page.url == '/vita.html' %} current-page{% endif %}">Vita</a>
+        <a href="/projects.html" class="nav-link{% if page.url == '/projects.html' %} current-page{% endif %}">Projects</a>
       </nav>
       
       <p>{{ site.description | default: site.github.project_tagline }}</p>
