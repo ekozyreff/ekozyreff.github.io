@@ -22,6 +22,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.text }}</a>
               </li>
+              {% unless forloop.last %}
+                <span class="nav-separator"> | </span>
+              {% endunless %}
             {% endfor %}
           </ul>
         </nav>
