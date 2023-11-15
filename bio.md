@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 I was born in Brazil, in a medium sized city called Sorocaba...
 
 ## Main Work Experience
