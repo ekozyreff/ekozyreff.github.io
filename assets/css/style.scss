@@ -2,3 +2,25 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Navigation Bar */
+.navbar {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.nav-item {
+  margin-right: 10px; /* Adjust spacing as needed */
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+/* Optional: Add a separator between navigation links */
+.nav-separator::before {
+  content: "|";
+  margin: 0 5px; /* Adjust spacing as needed */
+}
