@@ -7,11 +7,10 @@
 .nav-link {
     margin-right: 20px;
     text-decoration: none;
-    color: #fff !important;
   }
 
   .nav-link:not(:last-child) {
     margin-right: 10px;
     padding-right: 10px;
-    border-right: 1px solid #fff;
+    border-right: 1px solid #000;
   }
