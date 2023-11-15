@@ -3,3 +3,10 @@ logo: /assets/images/profile_picture.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+nav:
+  - text: Home
+    url: /
+  - text: Bio
+    url: /bio
+  - text: Projects
+    url: /projects
