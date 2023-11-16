@@ -18,9 +18,9 @@ Currently, I am part of [Klabin](https://klabin.com.br/)'s **Analytic Projects T
 - **Mixed Integer Programming:** Specialized in formulating and solving optimization problems with a focus on mixed integer programming.
 - **Excel and VBA:** Adept at harnessing the power of Excel and VBA to streamline processes and enhance decision-making.
 
-Feel free to explore my portfolio to discover more about the projects I've undertaken and the impact they've had. If you have any questions or would like to connect, don't hesitate to reach out via [LinkedIn](https://www.linkedin.com/in/ekozyreff/).
+Feel free to explore my [portfolio](/projects.html) to discover more about the projects I've undertaken and the impact they've had. Also, check out my [curriculum vitae](/vita.md). If you have any questions or would like to connect, don't hesitate to reach out via [LinkedIn](https://www.linkedin.com/in/ekozyreff/).
 
 Thank you for visiting! ✨
 
-Best regards,  
+Best regards,
 Ernée
