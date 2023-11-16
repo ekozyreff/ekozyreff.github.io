@@ -7,7 +7,7 @@ title: Vita
 
 I was born in Brazil, in a medium sized city called Sorocaba...
 
-<span style="color:blue">some *blue* text</span>
+<span style="color:#727272">some *blue* text</span>
 
 ## Main Work Experience
 
