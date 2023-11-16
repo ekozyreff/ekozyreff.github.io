@@ -7,32 +7,30 @@ title: Vita
 
 I was born in Brazil, in a medium sized city called Sorocaba...
 
-<span style="color:#727272">some *blue* text</span>
-
 ## Main Work Experience
 
-### Analytic Projects Engineer at [Klabin S.A.](https://klabin.com.br/) (_May 2023 - Present_)
+### Analytic Projects Engineer <span style="color:#727272">at</span> [Klabin S.A.](https://klabin.com.br/) <span style="color:#727272">(_May 2023 - Present_)</span>
 - Together with the Analytical Projects team, I develop solutions for optimizing industrial processes using mathematical programming and statistical methods.
 
-### Assistant Professor at [Universidade Estadual Paulista](https://www.unesp.br/) (_August 2016 - Janyary 2022_)
+### Assistant Professor <span style="color:#727272">at</span> [Universidade Estadual Paulista](https://www.unesp.br/) <span style="color:#727272">(_August 2016 - Janyary 2022_)</span>
 - Taught the disciplines "Operations Research", "Probability and Statistics" and "Systems Simulation" at the Industrial Engineering undergraduate course at the Itapeva Campus.
 
-### College Professor and Head of Department at [Faculdade de Engenharia de Sorocaba](https://facens.br/) (_August 2014 - July 2016_)
+### College Professor and Head of Department <span style="color:#727272">at</span> [Faculdade de Engenharia de Sorocaba](https://facens.br/) <span style="color:#727272">(_August 2014 - July 2016_)</span>
 - Taught the disciplines "Calculus", "Linear Algebra", "Statistics" and "Operations Research" in undergraduate engineering courses.
 - Along with the team of professors, we restructured the contents of the engineering common core disciplines, improved the pre-calculus course and introduced new teaching methodologies to freshman students.
 
-### Research Assistant at [Texas Tech University](https://www.ttu.edu/) (_August 2009 - May 2014_)
+### Research Assistant <span style="color:#727272">at</span> [Texas Tech University](https://www.ttu.edu/) <span style="color:#727272">(_August 2009 - May 2014_)</span>
 - Co-authored three articles in highly prestigious journals in the area of Operations Research ("Math Programming" and "Computers and Industrial Engineering") under the supervision of Professor Ismael de Farias, Jr. Made extensive use of commercial solvers CPLEX and Gurobi for solving instances of Mixed Integer Programming problems.
 
-### Process Engineer and Production Manager at [Pilkington](https://www.pilkington.com/) (_January 2003 - May 2006_)
+### Process Engineer and Production Manager <span style="color:#727272">at</span> [Pilkington](https://www.pilkington.com/) <span style="color:#727272">(_January 2003 - May 2006_)</span>
 - Worked on improvements in automotive glass cutting, painting and tempering lines.
 - Was responsible for managing people, expenses, maintenance and manufacturing of two glass production lines
 
 
 ## Education
 
-- Ph.D., Industrial Engineering - [Texas Tech University](https://www.ttu.edu/) (_May 2014_)								       		
-- M.S., Mathematics	- [Texas Tech University](https://www.ttu.edu/) (_May 2012_) 			        		
+- Ph.D., Industrial Engineering - [Texas Tech University](https://www.ttu.edu/) (_May 2014_)
+- M.S., Mathematics	- [Texas Tech University](https://www.ttu.edu/) (_May 2012_)
 - B.S., Civil Engineering - [Instituto Tecnologico de Aeronautica](http://www.ita.br/) (_December 2002_)
 
 
