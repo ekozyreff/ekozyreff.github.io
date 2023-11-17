@@ -51,3 +51,5 @@ I have a [YouTube channel](https://www.youtube.com/c/professorernee) where I tea
 One significant interest I have outside the scope of math is **Public Speaking**. Recognizing it as a pivotal skill, I dedicated time to overcoming initial challenges, transforming it from a weakness into a strength. Furthermore, I consolidated my learnings into a comprehensive public speaking course, which I conduct twice a year to help others develop this skill. I do it through [Spark Oratória](https://www.sparkoratoria.com/), a school I founded in 2021.
 
 In 2022 I took a sabbatical year to pursue personal projects. Among them, I created the public speaking course mentioned earlier. Additionally, I traveled to Uruguay, Chile, and Argentina through [Worldpackers](https://www.worldpackers.com/) on a work exchange basis. That allowed me to immerse myself in different cultures, enhance my Spanish proficiency, and learn more about the world in general.
+
+My native language is **Portuguese**, and I am fluent in **English**. Additionally, I can communicate proficiently in **Spanish**.
