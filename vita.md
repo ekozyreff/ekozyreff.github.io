@@ -13,7 +13,7 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 - I specialize in devising and implementing mathematical programming models to optimize industrial processes.
 - From time to time, I deliver presentations on Analytics-related topics, including but not limited to Operations Research and Statistics.
 
-### Assistant Professor at [Universidade Estadual Paulista](https://www.unesp.br/) (_August 2016 - Janyary 2022_)
+### Assistant Professor at [Universidade Estadual Paulista](https://www.unesp.br/) (_August 2016 - January 2022_)
 - Taught the disciplines "Operations Research", "Probability and Statistics" and "Systems Simulation" at the Industrial Engineering undergraduate course at the Itapeva Campus.
 
 ### College Professor and Head of Department at [Faculdade de Engenharia de Sorocaba](https://facens.br/) (_August 2014 - July 2016_)
@@ -32,6 +32,7 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 
 - Ph.D., Industrial Engineering - [Texas Tech University](https://www.ttu.edu/) (_May 2014_)
 - M.S., Mathematics	- [Texas Tech University](https://www.ttu.edu/) (_May 2012_)
+- M.S., Industrial Engineering - [Instituto Tecnologico de Aeronautica](http://www.ita.br/) (_June 2009_)
 - B.S., Civil Engineering - [Instituto Tecnologico de Aeronautica](http://www.ita.br/) (_December 2002_)
 
 
@@ -46,10 +47,10 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 
 I find great value on **Kaggle**, where I enjoy taking on challenges and sharing my solutions in notebooks. You can explore my contributions and journey on [my profile](https://www.kaggle.com/ekozyreff), which showcases my way of structuring code and explaining my problem-solving process.
 
-I have a [YouTube channel](https://www.youtube.com/c/professorernee) where I teach about Operations Research (in Portuguese). The topics I cover include mathematical modeling, graphical solutions to small optimization problems, the Simplex method, and Branch-And-Bound.
+I have a [YouTube channel](https://www.youtube.com/c/professorernee) where I teach about **Operations Research** (in Portuguese). The topics I cover include mathematical modeling, graphical solutions to small optimization problems, the Simplex method, and Branch-And-Bound.
 
 One significant interest I have outside the scope of math is **Public Speaking**. Recognizing it as a pivotal skill, I dedicated time to overcoming initial challenges, transforming it from a weakness into a strength. Furthermore, I consolidated my learnings into a comprehensive public speaking course, which I conduct twice a year to help others develop this skill. I do it through [Spark Oratória](https://www.sparkoratoria.com/), a school I founded in 2021.
 
-In 2022 I took a sabbatical year to pursue personal projects. Among them, I created the public speaking course mentioned earlier. Additionally, I traveled to Uruguay, Chile, and Argentina through [Worldpackers](https://www.worldpackers.com/) on a work exchange basis. That allowed me to immerse myself in different cultures, enhance my Spanish proficiency, and learn more about the world in general.
+In 2022 I took a **sabbatical year** to pursue personal projects. Among them, I created the public speaking course mentioned earlier. Additionally, I traveled to Uruguay, Chile, and Argentina through [Worldpackers](https://www.worldpackers.com/) on a work exchange basis. That allowed me to immerse myself in different cultures, enhance my Spanish proficiency, and learn more about the world in general.
 
 My native language is **Portuguese**, and I am fluent in **English**. Additionally, I can communicate proficiently in **Spanish**.
