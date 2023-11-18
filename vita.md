@@ -9,7 +9,7 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 
 ## Main Work Experience
 
-### Analytic Projects Engineer at [Klabin S.A.](https://klabin.com.br/) (_May 2023 - Present_)
+### Analytic Projects Engineer at [Klabin](https://klabin.com.br/) (_May 2023 - Present_)
 - I specialize in devising and implementing mathematical programming models to optimize industrial processes.
 - From time to time, I deliver presentations on Analytics-related topics, including but not limited to Operations Research and Statistics.
 
