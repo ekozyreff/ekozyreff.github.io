@@ -12,6 +12,13 @@ This project...
 
 ## Academic Projects
 
+#### Minimizing the cycle lengh of a glass cutting machine
+
+This is the code used to generate and solve instances of a cutting path minimization problem.
+
+[GitHub repository](https://github.com/ekozyreff/tpo_glass_cutting)
+
+
 #### Connections between Integer Programming and Neural Networks
 
 This code is an implementation of some of the ideas described in the paper "Deep neural networks and mixed integer linear optimization", by M. Fischetti and J. Jo [https://doi.org/10.1007/s10601-018-9285-6](https://doi.org/10.1007/s10601-018-9285-6).
