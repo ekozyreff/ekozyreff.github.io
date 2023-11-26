@@ -21,7 +21,8 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 - Restructured the contents of the engineering common core disciplines, enhanced the pre-calculus course, and implemented innovative teaching methodologies for freshman students.
 
 ### Research Assistant at [Texas Tech University](https://www.ttu.edu/) (_2009 - 2014_)
-- Collaborated on three articles published in esteemed journals within the field of Operations Research, including "Math Programming" and "Computers and Industrial Engineering," under the guidance of Professor Ismael de Farias, Jr. Made extensive use of CPLEX and Gurobi for solving instances of Mixed Integer Programming problems.
+- Collaborated on three articles published in esteemed journals within the field of Operations Research, including "Math Programming" and "Computers and Industrial Engineering," under the guidance of Professor Ismael de Farias, Jr.
+- Made extensive use of CPLEX and Gurobi for solving instances of Mixed Integer Programming problems.
 
 ### Math Teacher at High Schools (_2006- 2008_)
 - Taught all areas of mathematics for high school students.
