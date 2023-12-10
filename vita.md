@@ -36,8 +36,8 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 
 - Ph.D., Industrial Engineering - [Texas Tech University](https://www.ttu.edu/) (_May 2014_)
 - M.S., Mathematics	- [Texas Tech University](https://www.ttu.edu/) (_May 2012_)
-- M.S., Industrial Engineering - [Instituto Tecnologico de Aeronautica](http://www.ita.br/) (_June 2009_)
-- B.S., Civil Engineering - [Instituto Tecnologico de Aeronautica](http://www.ita.br/) (_December 2002_)
+- M.S., Industrial Engineering - [Instituto Tecnológico de Aeronáutica](http://www.ita.br/) (_June 2009_)
+- B.S., Civil Engineering - [Instituto Tecnológico de Aeronáutica](http://www.ita.br/) (_December 2002_)
 
 
 ## Select Publications
