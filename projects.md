@@ -5,21 +5,21 @@ title: Projects
 
 ## Professional Projects
 
-#### Wood transportation planninng for paper production
+#### 1. Wood transportation planninng for paper production
 
 This project...
 
 
 ## Academic Projects
 
-#### Minimizing the cycle lengh of a glass cutting machine
+#### 2. Minimizing the cycle lengh of a glass cutting machine
 
 This is the code used to generate and solve instances of a cutting path minimization problem.
 
 [GitHub repository](https://github.com/ekozyreff/tpo_glass_cutting)
 
 
-#### Connections between Integer Programming and Neural Networks
+#### 3. Connections between Integer Programming and Neural Networks
 
 This code is an implementation of some of the ideas described in the paper "Deep neural networks and mixed integer linear optimization", by M. Fischetti and J. Jo [https://doi.org/10.1007/s10601-018-9285-6](https://doi.org/10.1007/s10601-018-9285-6).
 
@@ -28,7 +28,7 @@ This code is an implementation of some of the ideas described in the paper "Deep
 
 ## Personal Projects
 
-#### Kaggle's "Santa's Workshop Tour 2019" Competition
+#### 4. Kaggle's "Santa's Workshop Tour 2019" Competition
 
 In this repo I'm sharing the code I used in the ["Santa's Workshop Tour 2019" Kaggle Competition](https://www.kaggle.com/c/santa-workshop-tour-2019/).
 
