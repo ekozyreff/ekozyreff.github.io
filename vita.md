@@ -5,12 +5,16 @@ title: Vita
 
 ## Short Bio
 
-I was born in Brazil, in a medium sized city called Sorocaba...
+I was born in Brazil, in a medium sized city called [Sorocaba](https://maps.app.goo.gl/Dd62pGTmhWDNdz2i6). Since a young age, I was drawn to math and sciences. When I was in high school, I spent a year as an exchange student in the US, where I lived with an American family and was a sophomore at [Miami Palmetto Senior High](https://www.palmettopanthers.org/). This experience was life changing because it gave me a greater perspective of the world.
+
+I went on to study Engineering, Mathematics, Operations Research and, more recently, Machine Learning. Since my first internship, I have worked in technical, academic and managerial roles. Today my main focus is devising and implementing mathematical programming models to optimize processes at a major global player in the paper industry.
+
+I enjoy listening to music and to podcasts, running, reading novels, watching movies and hanging out with friends.
 
 ## Main Work Experience
 
 ### Analytic Projects Engineer at [Klabin](https://klabin.com.br/) (_2023 - Present_)
-- I specialize in devising and implementing mathematical programming models to optimize industrial processes.
+- Developing solutions for optimizing industrial processes using mathematical programming and statistical methods.
 - From time to time, I deliver presentations on Analytics-related topics, including but not limited to Operations Research and Statistics.
 
 ### Assistant Professor at [Universidade Estadual Paulista](https://www.unesp.br/) (_2016 - 2022_)
@@ -31,6 +35,8 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 - Contributed to improving processes in automotive glass cutting, painting, and tempering lines.
 - Oversaw the management of personnel, expenses, maintenance, and manufacturing operations for two glass production lines.
 
+### Intern at [Itaú](https://www.itau.com.br/) (_2002_)
+- Worked on collecting data, building spreadsheets, and creating reports for senior management.
 
 ## Education
 
@@ -49,7 +55,7 @@ I was born in Brazil, in a medium sized city called Sorocaba...
 
 ## Other Interests
 
-I find great value on **Kaggle**, where I enjoy taking on challenges and sharing my solutions in notebooks. You can explore my contributions and journey on [my profile](https://www.kaggle.com/ekozyreff), which showcases my way of structuring code and explaining my problem-solving process.
+I find great value on **Kaggle**, where I enjoy taking on challenges and sharing my solutions in notebooks. You can explore my contributions and journey on [my Kaggle profile](https://www.kaggle.com/ekozyreff), which showcases my way of structuring code and explaining my problem-solving process.
 
 I have a [YouTube channel](https://www.youtube.com/c/professorernee) where I teach about **Operations Research** (in Portuguese). The topics I cover include mathematical modeling, graphical solutions to small optimization problems, the Simplex method, and Branch-And-Bound.
 
