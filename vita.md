@@ -7,9 +7,9 @@ title: Vita
 
 I was born in Brazil, in a medium sized city called [Sorocaba](https://maps.app.goo.gl/Dd62pGTmhWDNdz2i6). Since a young age, I was drawn to math and sciences. When I was in high school, I spent a year as an exchange student in the US, where I lived with an American family and was a sophomore at [Miami Palmetto Senior High](https://www.palmettopanthers.org/). This experience was life changing because it gave me a greater perspective of the world.
 
-I went on to study Engineering, Mathematics, Operations Research and, more recently, Machine Learning. Since my first internship, I have worked in technical, academic and managerial roles. Today my main focus is devising and implementing mathematical programming models to optimize processes at a major global player in the paper industry.
+I went on to study Engineering, Mathematics, Operations Research and, more recently, Machine Learning. Since my first internship, I have worked in technical, academic and managerial roles. Today my main focus is devising and implementing mathematical programming models to optimize processes at a major player in the paper industry.
 
-I enjoy listening to music and to podcasts, running, reading novels, watching movies and hanging out with friends.
+In my free time, I enjoy listening to music and to podcasts, running, reading novels, watching movies and hanging out with friends.
 
 ## Main Work Experience
 
