@@ -3,14 +3,14 @@ layout: default
 title: Projects
 ---
 
-## Professional Projects
+# Professional Projects
 
 ### 1. Wood transportation planninng for paper production 🌲
 
 This project...
 
 
-## Academic Projects
+# Academic Projects
 
 ### 2. Minimizing the cycle lengh of a glass cutting machine 🏭
 
@@ -22,7 +22,7 @@ This project...
 [This code](https://github.com/ekozyreff/fischetti_jo_2018) is an implementation in Python of some of the ideas described in the paper "Deep neural networks and mixed integer linear optimization", by M. Fischetti and J. Jo [https://doi.org/10.1007/s10601-018-9285-6](https://doi.org/10.1007/s10601-018-9285-6).
 
 
-## Personal Projects
+# Personal Projects
 
 ### 4. Kaggle's "Santa's Workshop Tour 2019" Competition 🥈
 
