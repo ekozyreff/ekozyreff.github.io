@@ -7,7 +7,7 @@ title: Projects
 
 ### 1. Wood transportation planninng for paper production 🌲
 
-My first major project at Klabin involved building a tool using Excel, VBA, Python, Pyomo, and CBC. At its core, it features an optimization model that minimizes deviations in the transportation of large quantities of wood used for paper production. A description of the project is available in [this repository](https://github.com/ekozyreff/wood_transportation_planning).
+My first major project at Klabin involved building a tool using Excel, VBA, Python, Pyomo, and CBC. At its core, it features an optimization model that minimizes deviations in the transportation of large quantities of wood used for paper production. A description of the project is available [here](https://github.com/ekozyreff/wood_transportation_planning).
 
 
 # Academic Projects
