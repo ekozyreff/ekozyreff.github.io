@@ -5,11 +5,11 @@ title: Vita
 
 # Short Bio
 
-I was born in Brazil, in city called [Sorocaba](https://maps.app.goo.gl/Dd62pGTmhWDNdz2i6). Since a young age, I was drawn to math and sciences. When I was in high school, I spent a year as an exchange student in the US, where I lived with an American family and was a sophomore at [Miami Palmetto Senior High](https://www.palmettopanthers.org/). This experience was life changing because it gave me a greater perspective of the world.
+I was born in Brazil, in a city called [Sorocaba](https://maps.app.goo.gl/Dd62pGTmhWDNdz2i6). Since a young age, I have been drawn to mathematics and sciences, and went on to study Engineering, Operations Research, and, more recently, Machine Learning.
 
-I went on to study Engineering, Mathematics, Operations Research and, more recently, Machine Learning. Since my first internship, I have worked in technical, academic and managerial roles. Today my main focus is devising and implementing mathematical programming models to optimize processes at a major player in the paper industry.
+In my professional career, I have worked in technical, academic and managerial roles. Today my main focus is on devising and implementing mathematical programming models to optimize processes at a major player in the paper industry.
 
-In my free time, I enjoy listening to music and to podcasts, running, reading novels, watching movies and hanging out with friends.
+In my free time, I enjoy listening to music and podcasts, running, reading novels, watching videos, and spending time with friends and family.
 
 # Main Experience
 
@@ -48,8 +48,8 @@ In my free time, I enjoy listening to music and to podcasts, running, reading no
 
 # Select Publications
 
-1. I. R. DE FARIAS, **E. KOZYREFF, E.**, M. ZHAO. Branch-and-cut for complementarity-constrained optimization. Mathematical Programming Computation, v. 6, 365–403, 2014. [http://dx.doi.org/10.1007/s12532-014-0070-2](http://dx.doi.org/10.1007/s12532-014-0070-2)
-2. **E. KOZYREFF**, I. R. DE FARIAS. A note on critical-set and lifted surrogate inequalities for cardinality-constrained linear programs. COMPUTERS & INDUSTRIAL ENGINEERING, v. 82, 1-7, 2014. [http://dx.doi.org/10.1016/j.cie.2014.08.014](http://dx.doi.org/10.1016/j.cie.2014.08.014)
+1. **E. KOZYREFF**, I. R. DE FARIAS. A note on critical-set and lifted surrogate inequalities for cardinality-constrained linear programs. COMPUTERS & INDUSTRIAL ENGINEERING, v. 82, 1-7, 2014. [http://dx.doi.org/10.1016/j.cie.2014.08.014](http://dx.doi.org/10.1016/j.cie.2014.08.014)
+2. I. R. DE FARIAS, **E. KOZYREFF**, M. ZHAO. Branch-and-cut for complementarity-constrained optimization. Mathematical Programming Computation, v. 6, 365–403, 2014. [http://dx.doi.org/10.1007/s12532-014-0070-2](http://dx.doi.org/10.1007/s12532-014-0070-2)
 3. I. R. FARIAS, **E. KOZYREFF**, R. GUPTA, M. ZHAO. Branch-and-cut for separable piecewise linear optimization and intersection with semi-continuous constraints. Mathematical Programming Computation, v. 5, 75-112, 2013. [http://dx.doi.org/10.1007/s12532-012-0049-9](http://dx.doi.org/10.1007/s12532-012-0049-9)
 
 
