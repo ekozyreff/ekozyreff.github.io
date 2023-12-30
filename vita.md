@@ -9,7 +9,7 @@ I was born in Brazil, in a city called [Sorocaba](https://maps.app.goo.gl/Dd62pG
 
 In my professional career, I have worked in technical, academic and managerial roles. Today my main focus is on devising and implementing mathematical programming models to optimize processes at a major player in the paper industry.
 
-In my free time, I enjoy listening to music and podcasts, running, reading novels, watching videos, and spending time with friends and family.
+In my free time, I enjoy listening to music and podcasts, running, reading novels, watching videos, and spending time with friends and family. 
 
 # Main Experience
 
