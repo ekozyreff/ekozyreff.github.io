@@ -9,7 +9,7 @@ I'm **Ernée**, a professional in the field of *optimization* and *data science*
 
 Currently, I am part of [Klabin](https://klabin.com.br/)'s **Analytic Projects Team**, where I contribute my skills and knowledge to impactful projects. My expertise lies in leveraging tools such as *Python*, *Pyomo*, *Mixed Integer Programming*, *Excel*, and *VBA* to tackle complex challenges and drive efficiency in various domains.
 
-Feel free to explore my [project portfolio](/projects.md) to discover more about the projects I've undertaken and the impact they've had. Also, check out some of my [background and interests](/vita.md) and my [LinkedIn profile](https://www.linkedin.com/in/ekozyreff/).
+Feel free to explore my [project portfolio](/projects.md) to discover more about the projects I've undertaken and the impact they've had. Also, check out my [background and interests](/vita.md) and my [LinkedIn profile](https://www.linkedin.com/in/ekozyreff/).
 
 Thank you for visiting!
 
