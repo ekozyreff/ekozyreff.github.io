@@ -14,7 +14,7 @@ In my free time, I enjoy listening to music and podcasts, running, reading novel
 
 # Professional Profile
 
-I am an experienced Operations Research specialist with a strong academic background and a diverse professional history in both industry and education. My expertise lies in applying mathematical and statistical methods to practical challenges, utilizing tools like Python and optimization solvers. With a commitment to continuous learning and a proven track record in problem-solving, I aim to leverage my analytical skills to improve processes and enhance decision-making in dynamic environments. ([Here is my CV in pdf](/assets/files/CV_Ernee_Kozyreff_Filho.pdf).)
+I am an experienced Operations Research specialist with a strong academic background and a diverse professional history in both industry and education. My expertise lies in applying mathematical and statistical methods to practical challenges, utilizing tools like Python and optimization solvers. With a commitment to continuous learning and a proven track record in problem-solving, I aim to leverage my analytical skills to improve processes and enhance decision-making in dynamic environments. Here is [my CV in pdf](/assets/files/CV_Ernee_Kozyreff_Filho.pdf).
 
 
 # Other Interests
